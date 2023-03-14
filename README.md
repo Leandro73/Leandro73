@@ -1,13 +1,10 @@
 ### Hi there, I'm Leandro Garcia 👋
 
-- 🔭 Today, I work as an organizational and database consultant.
-- 🌱 Studying python and javascript programming languages ​​and database management system (PostgreSQL and NoSQL)
+- Today, I work as an organizational and database consultant.
+- Studying python and javascript programming languages and database management system (PostgreSQL and NoSQL)
 - Angular framework
 - Python Language Fundamentals for Data Analysis and Data Science
 - Microsoft Power BI
-
-## 
-
 <div>
 <a href:"https://github.com/Leandro73">
 <img heigth="180em" src="https://github-readme-stats-vercel.app/api?username=Leandro73&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
